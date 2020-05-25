@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ROS by example vol 2 Indigo](README.md)
+* [Untitled](untitled.md)
 * [Глава 6. Диагностика робота](glava-6.-diagnostika-robota.md)
 * [6.1 Диагностические сообщения о состоянии робота](6.1-diagnosticheskie-soobsheniya-o-sostoyanii-robota.md)
 * [6.2 Конфигурационный файл анализатора](6.2-konfiguracionnyi-fail-analizatora.md)
